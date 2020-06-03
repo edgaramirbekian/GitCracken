@@ -18,7 +18,7 @@ Author: KillWolfVlad at [GitKraken-AUR](https://github.com/KillWolfVlad/GitKrake
 - `cd GitCracken/GitCracken/`
 - `yarn install`
 - `yarn build`
-- `node dist/bin/gitcracken.js patcher`
+- `node dist/bin/gitcracken.js patcher` (use `sudo node dist/bin/gitcracken.js patcher` if GitKraken installed with for all users)
 
 ## Disable Automatic Update
 
